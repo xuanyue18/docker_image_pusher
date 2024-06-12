@@ -1,2 +1,3 @@
 nginx
 redis
+nacos/nacos-server:v2.3.2
